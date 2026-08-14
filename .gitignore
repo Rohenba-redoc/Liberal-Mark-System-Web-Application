@@ -1,0 +1,23 @@
+# Environment / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / cache
+*.log
+logs/
+cache/
+
+# Composer dependencies
+vendor/
+_api/vendor/
+
+# User uploads
+uploads/

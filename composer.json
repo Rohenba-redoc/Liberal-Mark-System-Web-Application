@@ -1,0 +1,11 @@
+{
+    "name": "user/liberal_college",
+    "autoload": {
+        "psr-4": {
+            "User\\LiberalCollege\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.2"
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759305231838",
+    "project_id": "liberalcollege-88dd5",
+    "storage_bucket": "liberalcollege-88dd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759305231838:android:e0182463d69b9079db114f",
+        "android_client_info": {
+          "package_name": "com.liberal_college.liberal_App"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoQjx5YZv9DA9xyVst6Rg-AWqFwvTJG1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
